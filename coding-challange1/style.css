@@ -9,7 +9,7 @@ body {
   height: 50vh;
   font-family: "Poppins", sans-serif;
   background-image: url("hero-image.jpg");
-  background-position: top  center;
+  background-position: top center;
   background-size: cover;
 }
 
@@ -67,10 +67,10 @@ section {
   position: relative;
   top: 200px;
   left: 40px;
-  max-width: 40x0px;
+  max-width: 400px;
 }
 .header {
-    color:#ffffffdc;
+  color: #ffffffdc;
   font-weight: bold;
   padding: 10px;
 }
@@ -82,7 +82,7 @@ section .content {
   margin-bottom: 20px;
 }
 section p {
-    color:#ffffffdc;
+  color: #ffffffdc;
   font-size: 16px;
   line-height: 1.4;
 }
@@ -98,17 +98,17 @@ button {
   font-size: 18px;
   border: 2px solid crimson;
   background-color: transparent;
-  margin:0px 10px;
+  margin: 0px 10px;
 }
 button:hover {
-  color: rgba(251, 255, 0, 0.76);;
-  border: 2px solid rgba(251, 255, 0, 0.76);;
+  color: rgba(251, 255, 0, 0.76);
+  border: 2px solid rgba(251, 255, 0, 0.76);
   transition: 0.3s;
 }
 
 /* footer section */
 footer {
-    background-color: rgba(0,0,0,0.15);
+  background-color: rgba(0, 0, 0, 0.15);
   width: 100vw;
   display: flex;
   justify-content: center;
@@ -127,7 +127,7 @@ footer .footer-content a {
   margin: 5px;
 }
 footer .footer-content a:hover {
-  color: rgba(251, 255, 0, 0.76);;
+  color: rgba(251, 255, 0, 0.76);
   padding-bottom: 2px;
   border-bottom: 3px solid crimson;
 }
